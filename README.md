@@ -60,7 +60,7 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](.<img width="790" height="556" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/205d0f87-5379-4e3c-ad6f-7ee90037c992" />
+![best fit line](.<img width="790" height="556" alt="Screenshot (2)"<img width="1181" height="912" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/01487170-3d2d-43e1-89b3-d88b389da457" />
 png)
 
 
